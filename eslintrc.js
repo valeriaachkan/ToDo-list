@@ -1,6 +1,6 @@
 module.exports = {
-	extends: [
-		'@wemake-services/javascript',
-		'@wemake-services/typescript/recommended',
-	],
+  extends: [
+    '@wemake-services/javascript',
+    '@wemake-services/typescript/recommended',
+  ],
 };
