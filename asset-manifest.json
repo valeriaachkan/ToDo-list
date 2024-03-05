@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/valeriaachkan/to-do-list/static/css/main.09229374.css",
+    "main.js": "/valeriaachkan/to-do-list/static/js/main.3b5a4048.js",
+    "index.html": "/valeriaachkan/to-do-list/index.html",
+    "main.09229374.css.map": "/valeriaachkan/to-do-list/static/css/main.09229374.css.map",
+    "main.3b5a4048.js.map": "/valeriaachkan/to-do-list/static/js/main.3b5a4048.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09229374.css",
+    "static/js/main.3b5a4048.js"
+  ]
+}
